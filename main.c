@@ -1,0 +1,12 @@
+#include<stdio.h>
+main()
+{
+	big3();
+	fact();
+	big2();
+	rev();
+	pal();
+	sum2();
+	sort();
+	fib();
+}
